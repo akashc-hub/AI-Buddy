@@ -1,6 +1,6 @@
 # AI-Buddy
 
-> PyAudio
+- PyAudio
 
 > SpeechRecognition
  
