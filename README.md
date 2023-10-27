@@ -3,7 +3,7 @@
 > PyAudio
 
 > SpeechRecognition
-> 
+ 
 > openai
-> 
+ 
 > pywin32
