@@ -1,9 +1,11 @@
 # AI-Buddy
 
+>Required Libraries
+
 - PyAudio
 
-> SpeechRecognition
+- SpeechRecognition
+
+- openai
  
-> openai
- 
-> pywin32
+- pywin32
